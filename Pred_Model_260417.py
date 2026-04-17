@@ -29,7 +29,7 @@ coef = {
 
 # ==================== Page Configuration ====================
 st.set_page_config(page_title="Clinical Prediction Calculator", page_icon="🧬", layout="wide")
-st.title("🧬 Online Prediction Tool for Successful Conversion to Surgery")
+st.title("🧬 Online Prediction Tool for Conversion to Surgery")
 st.markdown("Please enter the patient's clinical parameters, and then click the button to obtain the predicted probability.")
 
 # Sidebar for input controls
